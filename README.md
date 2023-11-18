@@ -1,6 +1,7 @@
 # Grave-Hopper
 ## Overview
 Our professor tasked as to create our first game on the term, this was made in Unity using the language C#.
+![image](https://github.com/RimiRimssss/Grave-Hopper/assets/77657840/457bba70-ed32-4981-a12f-1d0d14cb486c)
 
 ## Mechanics
 The player needs to reach the end of the stage while fighting various monsters, and destroy the gravestones that are plaguing the world.

@@ -8,14 +8,16 @@ The player needs to reach the end of the stage while fighting various monsters, 
 
 ## Controls
 Movement Keys -
-Left Arrow - Move Left
-Right Arrow - Move Right
+[Left Arrow - Move Left]
+[Right Arrow - Move Right]
+
 Jump Key -
-Space Bar - Jump
+[Space Bar - Jump]
 
 ## Assets
 ##### Credits to: [Anokolisa](https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16) - for my tilemap
 ##### and [LuizMelo](https://luizmelo.itch.io/monsters-creatures-fantasy) - for my enemies
+##### [FIGMA FILE](https://www.figma.com/file/OKWI7uEHMdHOhuf5peYngY/MANABAT---GDD?type=design&node-id=0%3A1&mode=design&t=iwv8SVgDTnPeHVwM-1)
 Audio is still not finished.
 User Interface/Main Menu was made by myself.
 
@@ -37,7 +39,7 @@ Level 2
 
 ## Build File
 ### [GAME IS STILL NOT FINISHED]
-### [FIGMA FILE](https://www.figma.com/file/OKWI7uEHMdHOhuf5peYngY/MANABAT---GDD?type=design&node-id=0%3A1&mode=design&t=iwv8SVgDTnPeHVwM-1)
+
 
 
 
